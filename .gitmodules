@@ -1,6 +1,3 @@
-[submodule "spring-declarative-batch"]
-	path = spring-declarative-batch
-	url = https://github.com/marcoblanco92/spring-declarative-batch.git
 [submodule "declarative-batch-yaml-generator"]
 	path = declarative-batch-yaml-generator
 	url = https://github.com/marcoblanco92/declarative-batch-yaml-generator.git
