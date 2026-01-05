@@ -4,3 +4,12 @@
 [submodule "declarative-batch-visualizer"]
 	path = declarative-batch-visualizer
 	url = https://github.com/marcoblanco92/declarative-batch-visualizer.git
+[submodule "declarative-batch-archetype-generator"]
+	path = declarative-batch-archetype-generator
+	url = https://github.com/marcoblanco92/declarative-batch-archetype-generator.git
+[submodule "declarative-batch-archetype"]
+	path = declarative-batch-archetype
+	url = https://github.com/marcoblanco92/declarative-batch-archetype.git
+[submodule "declarative-batch-spring-lib"]
+	path = declarative-batch-spring-lib
+	url = https://github.com/marcoblanco92/declarative-batch-spring-lib.git
